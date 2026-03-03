@@ -4,7 +4,6 @@
  * Extends the base GymMember class with regular member-specific functionality.
  * @author Kushal Jamarkattel
  */
-
 public class RegularMember extends GymMember {
     /** Maximum attendance required for plan upgrade eligibility */
     private final int attendanceLimit;
